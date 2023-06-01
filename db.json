@@ -1,0 +1,29 @@
+{
+  "games": [
+    {
+      "id": "CSGO",
+      "category": "FPS",
+      "isFun": true
+    },
+    {
+      "id": "LoL",
+      "category": "Moba",
+      "isFun": true
+    },
+    {
+      "id": "Dota 2",
+      "category": "Moba",
+      "isFun": false
+    },
+    {
+      "id": "Age of Empires 3",
+      "category": "RTS",
+      "isFun": true
+    },
+    {
+      "id": "Starcraft Broodwar",
+      "category": "RTS",
+      "isFun": true
+    },    
+  ]
+}
