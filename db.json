@@ -24,6 +24,31 @@
       "id": "Starcraft Broodwar",
       "category": "RTS",
       "isFun": true
-    }    
+    },
+    {
+      "id": "Starcraft 2",
+      "category": "RTS",
+      "isFun": true
+    },
+    {
+      "id": "Skyrim",
+      "category": "Open-World",
+      "isFun": true
+    },
+    {
+      "id": "Paragon",
+      "category": "Moba",
+      "isFun": false
+    },
+    {
+      "id": "Age of Empires 2",
+      "category": "RTS",
+      "isFun": true
+    },
+    {
+      "id": "Call of Duty Modern Warfare",
+      "category": "FPS",
+      "isFun": true
+    },    
   ]
 }
