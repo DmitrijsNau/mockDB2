@@ -49,6 +49,51 @@
       "id": "Call of Duty Modern Warfare",
       "category": "FPS",
       "isFun": true
+    }, 
+    {
+      "id": "Call of Duty Black ops 2",
+      "category": "FPS",
+      "isFun": true
+    },
+    {
+      "id": "Witcher III",
+      "category": "OpenWorld",
+      "isFun": true
+    },
+    {
+      "id": "Valorant",
+      "category": "FPS",
+      "isFun": false
+    },
+    {
+      "id": "CSS",
+      "category": "FPS",
+      "isFun": true
+    },
+    {
+      "id": "Call of Duty Black Ops",
+      "category": "FPS",
+      "isFun": true
+    },
+    {
+      "id": "Battlefield 4",
+      "category": "FPS",
+      "isFun": true
+    },
+    {
+      "id": "Battlefield 1",
+      "category": "FPS",
+      "isFun": true
+    },
+    {
+      "id": "GTA 5",
+      "category": "OpenWorld",
+      "isFun": true
+    },
+    {
+      "id": "Red Dead Redemption 2",
+      "category": "OpenWorld",
+      "isFun": true
     }    
   ]
 }
